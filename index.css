@@ -1,8 +1,29 @@
 body{
     background-color: #343434 !important;
+    color: lightcoral;
 }
 
 .title{
     color: lightblue;
     text-align: center;
+}
+
+.sub-title{
+    color: lightcoral;
+    text-align: center;
+}
+
+.notes-list{
+    display: flex;
+    justify-content: space-between;
+    margin: 15vh 10vw;
+}
+
+.git-list{
+    font-size: 1.2em;
+    color: lightcoral;
+}
+
+.highlight{
+    color: crimson;
 }
